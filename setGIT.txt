@@ -1,0 +1,34 @@
+项目负责人：
+ 1.在github网站，创建项目得到项目地址https://github.com/qd9500805/project1.git
+2.在本地建立项目目标CMD下
+ #Git 全局设置:
+git config --global user.name "qd950805" 
+git config --global user.email "9500805@qq.com"
+3.检查下配置情况 git config -l
+4.初始化 git init
+
+5.建立关联到github
+git remote add origin https://github.com/qd9500805/VS5.git
+6.编程 （创建项目或者文件等等）
+
+7.查看本地git状态（新增新加的信息）
+ git status
+8.本地打包加注释
+git add *
+git commit -m "注释"
+9 .上传
+git push -u origin master 
+
+
+10.收到一般人员pull的处理，在pull request里面
+可以查看修改的内容，也可以看到其他人的评价
+config merge 进行确认 
+
+一般人员加入项目
+
+1.自己账号登录github网站，搜项目， 打开后 点击右上角 Fork 拷贝到自己账户下面
+2.修改代码，若需要同步到项目负责人那里
+3.点击pull requests新建一个create pull request
+ 发送给老大一个update信息。等待老大确认
+
+ 
