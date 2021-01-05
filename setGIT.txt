@@ -8,7 +8,7 @@ git config --global user.email "9500805@qq.com"
 4.初始化 git init
 
 5.建立关联到github
-git remote add origin https://github.com/qd9500805/VS5.git
+git remote add origin https://github.com/qd9500805/note.git
 6.编程 （创建项目或者文件等等）
 
 7.查看本地git状态（新增新加的信息）
@@ -31,4 +31,7 @@ config merge 进行确认
 3.点击pull requests新建一个create pull request
  发送给老大一个update信息。等待老大确认
 
- 
+远程调试树莓派VS
+
+https://www.quarkbook.com/?p=686
+
