@@ -35,3 +35,7 @@ config merge 进行确认
 
 https://www.quarkbook.com/?p=686
 
+配置sshkey
+https://www.liaoxuefeng.com/wiki/896043488029600/896954117292416
+
+
